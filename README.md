@@ -19,11 +19,10 @@ With not a 8+ years building high-performance, production-grade applications, I 
 
 ## 🚀 Featured Projects
 
-- **[StyleSync](https://afif-portfolio-ten.vercel.app/)** — AI wardrobe manager & outfit generator with weather adaptation, powered by Google Gemini AI and computer vision.
-- **[Media Hub](https://afif-portfolio-ten.vercel.app/)** — No-watermark video/audio downloader with multi-tier API fallback routing and local history persistence.
-- **[CaféCash](https://afif-portfolio-ten.vercel.app/)** — Cloud POS system with role-based auth, thermal receipt previews, and Google Sheets-backed analytics.
-- **[Digital Class Yearbook](https://afif-portfolio-ten.vercel.app/)** — Interactive memories portal with serverless proxy routing to Google Apps Script.
-- **[Skyaether](https://afif-portfolio-ten.vercel.app/)** — Premium coffee brand landing page with glassmorphism UI and single-file bundle optimization.
+- **[StyleSync](https://stylesync-cyan-ten.vercel.app/)** — AI wardrobe manager & outfit generator with weather adaptation, powered by Google Gemini AI and computer vision.
+- **[Media Hub](https://media-hub-downloader.onrender.com/)** — No-watermark video/audio downloader with multi-tier API fallback routing and local history persistence.
+- **[CaféCash](https://caf-cash-1.vercel.app/)** — Cloud POS system with role-based auth, thermal receipt previews, and Google Sheets-backed analytics.
+- **[Blood Pressure Tracker & Analytics Portal](https://script.google.com/macros/s/AKfycbxrp7-zLHsTKWoBPk68l6n4K1FAtdaW1TXO42jEY5_dn9HzUQ4ZEqg1K3MtJw9CL6BnBw/exec)** — Full-stack health tracking & medical analytics app. Built with Google Apps Script to automate cardiovascular metrics calculations and report summaries.
 
 ## 💻 Development Manifesto
 
