@@ -8,15 +8,10 @@ I don't have 8+ years of experience building high-performance, production-grade 
 
 ## 🛠️ Tech Stack
 
-| Category | Technologies |
-|----------|--------------|
-| **Languages** | <img src="https://skillicons.dev/icons?i=ts,js,py,go" height="40" /> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,vue,tailwind,vite" height="40" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express" height="40" /> |
-| **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mongodb" height="40" /> |
-| **DevOps & Cloud** | <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws" height="40" /> |
-| **Other Tools** | <img src="https://skillicons.dev/icons?i=graphql,d3" height="40" /> ![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=flat-square&logo=google&logoColor=white)|
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,py,go,react,vue,tailwind,vite,nodejs,express,postgres,mongodb,docker,kubernetes,aws,graphql,d3" />
+  <img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Apps Script" />
+</p>
 
 ## 🚀 Featured Projects
 
@@ -32,6 +27,9 @@ I don't have 8+ years of experience building high-performance, production-grade 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sky4302/sky4302/pacman-output/pacman-contribution-graph.svg?game=pacman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sky4302/sky4302/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/sky4302/sky4302/snake-output/snake.svg" alt="Snake animation" />
+
 
 ###
 
