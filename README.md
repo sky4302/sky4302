@@ -1,6 +1,7 @@
-# 👋 Hi, I'm Afif
 
-> **"I'm Not A Full Stack Developer"** — I build scalable applications with clean code, solid architecture, and elegant solutions, I don't code, though..
+# 👋 Hi, I'm Afif
+![Header](./github-header-banner.png)
+
 
 ##  About Me
 
